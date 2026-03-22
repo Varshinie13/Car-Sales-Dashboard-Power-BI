@@ -1,0 +1,26 @@
+Key Insights & Visuals:
+  1. Total Revenue KPI: A high-level summary showing a total revenue of $5M.
+
+  2. Revenue by Customer: A bar chart identifying high-net-worth customers based on their Annual Income.
+
+  3. Gender Analysis: A donut chart showing sales distribution, with Male customers accounting for $4.07M (79.6%) of total sales.
+
+  4. Quarterly Growth: A line chart visualizing a consistent upward trend in Sales Price from Q1 to Q4.
+
+  5. Manufacturer Market Share: A Treemap highlighting top-performing brands like Chevrolet, Ford, and Toyota.
+
+  6. Interactive Slicers: A custom company slicer for deep-diving into specific brand performance (currently filtered for Hyundai).
+
+🛠️ Tools & Technologies:
+
+  * Power BI Desktop: For data modeling and visualization.
+
+  * DAX (Data Analysis Expressions): Used for creating calculated measures like Total Revenue and Price YoY Growth.
+
+  * Power Query: For ETL (Extract, Transform, Load) processes and data cleaning.
+
+📂 Repository Structure:
+
+Car_Sales_Dashboard.pbix: The main Power BI project file.
+
+Data/: Folder containing the raw dataset (CSV/Excel).
