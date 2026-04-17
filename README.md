@@ -25,6 +25,12 @@ for a dealership or manufacturer.
 
 Microsoft Excel: Original data source.
 
+Dashboard:
+
+<img width="1263" height="769" alt="Screenshot 2026-03-21 222126" src="https://github.com/user-attachments/assets/963f2512-b82f-4013-9c40-ed3d21beb5c8" />
+
+
+
 📊 Dashboard Features & Insights:
 
   KPI Header: Displays $5M Total Revenue using a card visual with custom icons.
